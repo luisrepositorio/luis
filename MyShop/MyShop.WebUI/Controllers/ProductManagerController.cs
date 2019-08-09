@@ -78,5 +78,31 @@ namespace MyShop.WebUI.Controllers
 
             }
         }
+
+        public ActionResult Delete(string Id)
+        {
+            Product productToDelete = context.Find(Id);
+            if (!ModelState.IsValid)
+            {
+                return HttpNotFound();
+            }
+            else { return View(productToDelete); }
+        }
+        [HttpPost]
+        [ActionName("Delete")]
+        public ActionResult ConfirmDelete(string Id)
+        {
+            Product productToDelete = context.Find(Id);
+            if (!ModelState.IsValid)
+            {
+                return HttpNotFound();
+            }
+            else
+            {
+                context.Delete(productToDelete.Id);
+                context.Commit();
+                return RedirectToAction("Index");
+            }
+        }
     }
 }
