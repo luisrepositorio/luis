@@ -43,10 +43,14 @@ C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\b
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.Owin.Security.xml
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\EntityFramework.xml
-C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\obj\Debug\MyShop.WebUI.Tests.csprojAssemblyReference.cache
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\obj\Debug\MyShop.WebUI.Tests.csproj.CoreCompileInputs.cache
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\obj\Debug\MyShop.WebUI.Tests.csproj.CopyComplete
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\obj\Debug\MyShop.WebUI.Tests.dll
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\obj\Debug\MyShop.WebUI.Tests.pdb
+C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\Antlr3.Runtime.pdb

@@ -3,3 +3,7 @@ C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.DataAccess.In
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CoreCompileInputs.cache
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.dll
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.pdb
+C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.Core.dll
+C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.Core.pdb
+C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csprojAssemblyReference.cache
+C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CopyComplete
