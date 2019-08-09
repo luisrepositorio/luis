@@ -54,3 +54,7 @@ C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\b
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\MyShop.DataAccess.InMemory.dll
+C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\MyShop.Core.dll
+C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\MyShop.DataAccess.InMemory.pdb
+C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.WebUI.Tests\bin\Debug\MyShop.Core.pdb
