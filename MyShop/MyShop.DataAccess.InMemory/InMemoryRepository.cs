@@ -5,9 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.Caching;
 using MyShop.Core.Models;
+using MyShop.Core.Contracts;
+
 namespace MyShop.DataAccess.InMemory
 {
-  public  class InMemoryRepository<T> where T : BaseEntity
+    public class InMemoryRepository<T> : IRepository<T> where T : BaseEntity
     {
         ObjectCache cache = MemoryCache.Default;
         List<T> items;
@@ -39,7 +41,7 @@ namespace MyShop.DataAccess.InMemory
             }
             else
             {
-                throw new Exception(ClassName +" no encontrado");
+                throw new Exception(ClassName + " no encontrado");
             }
 
         }
@@ -55,7 +57,7 @@ namespace MyShop.DataAccess.InMemory
                 throw new Exception(ClassName + " no encontrado");
             }
         }
-        public IQueryable<T>Collection()
+        public IQueryable<T> Collection()
         {
             return items.AsQueryable();
         }
