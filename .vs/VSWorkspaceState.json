@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MyShop",
+    "\\MyShop\\MyShop.DataAccess.SQL"
   ],
   "PreviewInSolutionExplorer": false
 }
