@@ -1,0 +1,6 @@
+Ques Backend?
+Ques Frontend?
+Ques Request?
+Ques un Callback?
+Definicion Cliente y Servidor?
+Como se comunican?
