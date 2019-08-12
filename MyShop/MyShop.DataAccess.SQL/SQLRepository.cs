@@ -13,6 +13,12 @@ namespace MyShop.DataAccess.SQL
     {
         internal DataContext Context;
         internal DbSet<T> dbSet;
+
+        public SQLRepository(DataContext context)
+        {
+            Context = context;
+            dbSet = Context.Set<T>();
+        }
         IQueryable<T> IRepository<T>.Collection()
         {
             throw new NotImplementedException();
