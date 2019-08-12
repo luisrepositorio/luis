@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace MyShop.Core.Models
 {
-    class BaseEntity
+  public abstract  class BaseEntity
     {
+        public string Id { get; set; }
+        public DateTimeOffset CreateAt { get; set; }
+
+        public BaseEntity()
+        {
+            Id = Guid.NewGuid().ToString();
+            CreateAt = DateTime.Now;
+        }
     }
 }
