@@ -3,3 +3,9 @@ C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.Services\bin\
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
 C:\Users\lmartinez\source\repos\luisrepositorio\luis\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb
+C:\Users\Luis\Source\Repos\luisrepositorio\luis\MyShop\MyShop.Services\bin\Debug\MyShop.Services.dll
+C:\Users\Luis\Source\Repos\luisrepositorio\luis\MyShop\MyShop.Services\bin\Debug\MyShop.Services.pdb
+C:\Users\Luis\Source\Repos\luisrepositorio\luis\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csprojAssemblyReference.cache
+C:\Users\Luis\Source\Repos\luisrepositorio\luis\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Source\Repos\luisrepositorio\luis\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
+C:\Users\Luis\Source\Repos\luisrepositorio\luis\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb
