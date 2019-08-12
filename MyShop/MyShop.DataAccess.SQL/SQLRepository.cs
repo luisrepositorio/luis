@@ -13,7 +13,7 @@ namespace MyShop.DataAccess.SQL
     {
         internal DataContext Context;
         internal DbSet<T> dbSet;
-
+        //cmentario
         public SQLRepository(DataContext context)
         {
             Context = context;
