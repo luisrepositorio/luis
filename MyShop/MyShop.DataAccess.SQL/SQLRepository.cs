@@ -21,32 +21,36 @@ namespace MyShop.DataAccess.SQL
         }
         IQueryable<T> IRepository<T>.Collection()
         {
-            throw new NotImplementedException();
+            return dbSet;
         }
 
         void IRepository<T>.Commit()
         {
-            throw new NotImplementedException();
+            Context.SaveChanges();
         }
 
         void IRepository<T>.Delete(string Id)
         {
-            throw new NotImplementedException();
+            var t = dbSet.Find(Id);
+            if (Context.Entry(t).State == EntityState.Detached)
+                dbSet.Attach(t);
+            dbSet.Remove(t);
         }
 
         T IRepository<T>.Find(string Id)
         {
-            throw new NotImplementedException();
+            return dbSet.Find(Id);
         }
 
         void IRepository<T>.Insert(T t)
         {
-            throw new NotImplementedException();
+            dbSet.Add(t);
         }
 
         void IRepository<T>.Update(T t)
         {
-            throw new NotImplementedException();
+            dbSet.Attach(t);
+            Context.Entry(t).State = EntityState.Modified;
         }
     }
 }
