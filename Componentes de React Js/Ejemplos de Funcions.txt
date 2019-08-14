@@ -1,0 +1,7 @@
+Location = ({ city }) => {
+    //Location = (props) => {
+    //const city = props.city;
+    //Destructuring
+    //const { city } = props;
+   return (<div><h1>{city}</h1></div>);
+};
