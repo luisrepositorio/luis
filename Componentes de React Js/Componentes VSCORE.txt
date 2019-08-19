@@ -1,3 +1,5 @@
 vscode-icons
 reactjs code snippets
 GitHub
+
+yarn add prop-types
