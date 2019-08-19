@@ -1,5 +1,5 @@
 import React from 'react';
-import WheatherLocation from './Components/WeatherLocation';
+import WheatherLocation from './Components/WeatherLocation/index';
 import './App.css';
 
 function App() {
