@@ -1,0 +1,35 @@
+MOAOA130891257
+jm1891
+
+comando para instalar MaterialUI
+yarn add @material-ui/
+yarn add react-flexbox-grid
+
+API KEY = db89d1219f57eb0a5a17d28c07e87f8e
+API KEY = f99bbd9e4959b513e9bd0d7f7356b38d
+http://api.openweathermap.org/data/2.5/weather?q=[LOCATION]&appid=[KEY]
+
+http://api.openweathermap.org/data/2.5/weather?q=Buenos Aires,ar$appid=57322aacbef198f71aa0572766b376f6
+http://api.openweathermap.org/data/2.5/weather?q=Buenos%20Aires,ar$appid=db89d1219f57eb0a5a17d28c07e87f8e
+https://api.openweathermap.org/data/2.5/weather?q=London,uk&appid=db89d1219f57eb0a5a17d28c07e87f8e
+
+
+import 
+{
+  CLOUD,
+  CLOUDY,
+  SUN,
+  RAIN, 
+  SNOW, 
+  WINDY,
+} from './../../constants/Weather';
+
+const data=
+{
+    temperature: 20,
+    weatherstate: SUN,
+    humidity: 10,
+    wind: '10 m/s',
+}
+
+   <button onClick={this.hanledUpdateClick}>Actualizar</button>s
